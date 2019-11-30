@@ -16,7 +16,7 @@ The frontend lives in this folder. It wasn't the focus of this project at all, s
 The *chat.js* file in /js/ checks if any messages are being received or if any users are joining. It then renders the correct information to the user. It also emits the right event when a message is sent by the user.
 
 **src/index.js**
-This is the entry point. It takes care of the socket.io connection and this is where the logic lives to execute methods like sendMessage, sendLocation.
+This is the entry point. It takes care of the socket.io connection and this is where the logic lives to execute functions like sendMessage, sendLocation.
 
 **src/utils/**
 *users.js* holds the users in a room and all the logic that has to do with adding, removing and getting users.
