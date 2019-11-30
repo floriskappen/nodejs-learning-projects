@@ -3,7 +3,7 @@ This is part of a series of small projects I did in an effort to learn Node.js &
 
 ## Installation
 
-Use the package manager [npm](https://nodejs.org/en/)  to install Task Manager API.
+Use the package manager [npm](https://nodejs.org/en/)  to install Chatbox App.
 
 ```bash
 npm install
